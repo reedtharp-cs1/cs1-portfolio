@@ -1,2 +1,13 @@
 # cs1-portfolio
-projects completed in computer science 1
+My name is Reed Tharp. This portfolio includes projects I completed in computer science 1
+
+## Skills Practiced:
+
+- Variables
+- Input and Output
+- If statements
+- Loops
+- Funtions
+- Lists and Tuples
+- File handling
+- Object-oriented programming basics
